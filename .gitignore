@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+*.swp
+*~
+*/*.xcodeproj/project.xcworkspace
+*/*.xcodeproj/xcuserdata
+.DS_Store

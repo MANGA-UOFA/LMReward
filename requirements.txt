@@ -1,0 +1,4 @@
+torch>=1.10
+transformers==4.21
+protobuf
+nltk
