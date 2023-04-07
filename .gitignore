@@ -6,3 +6,5 @@ __pycache__/
 */*.xcodeproj/project.xcworkspace
 */*.xcodeproj/xcuserdata
 .DS_Store
+wandb/
+local/
